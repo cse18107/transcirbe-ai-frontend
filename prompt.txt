@@ -1,0 +1,7 @@
+i already told you that 
+i will feed the application a audio file of any language. the application will transcript that audio file chunk by chunk, give us english transcript and also show the details like what is the primary language of the audio file. and you have to use open ai to transcript
+
+
+
+
+
